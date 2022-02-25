@@ -1,3 +1,5 @@
+[![MathUtility Project using JUnit & CI | © 2020 by giao.lang](https://github.com/nguyenlamthuyphuong25/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/nguyenlamthuyphuong25/math-util/actions/workflows/mathutil-ci.yml)
+
 # Welcome to Math Utility Repository
 
 ## This repo stores a Java library to support for the Math calculation. You will find in this repo the following stuff
